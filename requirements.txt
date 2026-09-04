@@ -1,0 +1,7 @@
+streamlit>=1.32
+finance-datareader>=0.9.90
+openai>=1.30
+python-dotenv>=1.0
+pandas>=2.0
+networkx>=3.0
+plotly>=5.20
